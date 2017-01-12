@@ -19,7 +19,7 @@ categorical_variables = [2 3 4 6];
 
 % Prior probabilities
 prior = [0.78 0.22]; % the prior should be between [0.5 0.5](1) and [0.78 0.22](2) 
-                   % due to 1/nº responses(1) and due to dataset distribution (2)
+                   % due to 1/nÂº responses(1) and due to dataset distribution (2)
 
 % Cost matrix (missclassification) IMPORTANT, explain in the report.
 miss_matrix = [0 1.5;3.5 0]; % the optimal result usually got unbalanced regarding default payments
