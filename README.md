@@ -20,5 +20,8 @@ Matlab
 
 7) Comparing resuls and writing down conclusions
 
+# Results and poster: 
+NaiveBayes_risk/POSTER_NaiveBayes_RandomForest.pdf
+
 # Deadline: 
 6 December 2016 - Completed!
