@@ -22,6 +22,7 @@ Matlab
 
 # Results and poster: 
 NaiveBayes_risk/POSTER_NaiveBayes_RandomForest.pdf
+https://github.com/AlberErre/NaiveBayes_risk/blob/master/POSTER_NaiveBayes_RandomForest.pdf
 
 # Deadline: 
 6 December 2016 - Completed!
