@@ -1,15 +1,24 @@
 # NaiveBayes_risk
-Machine Learning Classifier (Naive Bayes) to evaluate risk
+Machine Learning Classifiers (Naive Bayes and Random forest) to evaluate risk in credit cards
+Database source: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 # Language:
 Matlab
 
-# Status:
-DONE - Obtaining data (credit cards, UCI Machine Learning Database)
+# Steps taken:
+1) Obtaining data (credit cards, UCI Machine Learning Database)
 
-DONE - Studying matlab documentation and development process
+2) Cleaning and preprocessing data (wrangling), high correlations found in some variables
 
-IN PROGRESS - Improving parameters and comparing models (density functions, prior, cost matrix)
+3) Studying matlab documentation and development process
+
+4) Developing Naive Bayes and Random Forest algorithms
+
+5) Improving parameters and comparing models (density functions, priors, number of random forest.. etc)
+
+6) Adding a cost matrix to solve unbalanced data problem and increase results
+
+7) Comparing resuls and writing down conclusions
 
 # Deadline: 
-6 December 2016
+6 December 2016 - Completed!
