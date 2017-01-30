@@ -2,7 +2,7 @@
 Machine Learning Classifiers (Naive Bayes and Random forest) to evaluate risk in credit cards
 Database source: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
-# Language:
+# Code:
 Matlab - Final code: NaiveBayes_risk/FINAL_Credit_risk_NaiveBayes_RandomForest.m
 https://github.com/AlberErre/NaiveBayes_risk/blob/master/FINAL_Credit_risk_NaiveBayes_RandomForest.m
 
@@ -25,5 +25,3 @@ https://github.com/AlberErre/NaiveBayes_risk/blob/master/FINAL_Credit_risk_Naive
 NaiveBayes_risk/POSTER_NaiveBayes_RandomForest.pdf
 https://github.com/AlberErre/NaiveBayes_risk/blob/master/POSTER_NaiveBayes_RandomForest.pdf
 
-# Deadline: 
-6 December 2016 - Completed!
