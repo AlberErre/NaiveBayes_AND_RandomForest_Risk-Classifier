@@ -1,4 +1,4 @@
-# NaiveBayes_risk
+# NaiveBayes_AND_RandomForest_risk
 Machine Learning Classifiers (Naive Bayes and Random forest) to evaluate risk in credit cards
 Database source: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
